@@ -1,0 +1,5 @@
+Hello! My name is Riya Gohar.
+I am a student of MSCIDS at Goa Business School.
+I am currently learning Git and GitHub as part of my practical work. 
+This practical has helped me understand version control, 
+repositories, commits, branches, and working with GitHub.
